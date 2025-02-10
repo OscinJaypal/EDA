@@ -13,10 +13,10 @@ pandas
 seaborn
 
 # Usage
-1. Clone Repository
+1. Clone Repository:
    git clone <repo-url>
    cd <repo-folder>
-2. Install Dependencies
+2. Install Dependencies:
    pip install -r requirements.txt
 3. Open the Jupyter Notebook:
    jupyter notebook eda.ipynb
