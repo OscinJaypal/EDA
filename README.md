@@ -21,21 +21,21 @@ seaborn
 3. Open the Jupyter Notebook:
    jupyter notebook eda.ipynb
 
-EDA helps in:
-1. Understanding the structure and quality of dataset
+# EDA helps in:
+1. Understanding the structure and quality of dataset:
    Get insights into the structure, size, and types of data.
    Identify missing values and inconsistencies.
 
-2. Summarize Statistical properties
+2. Summarize Statistical properties:
    Calculate measures like mean, median, standard deviation, and distribution of variables.
 
-3. Detect outlie and Anomalies
+3. Detect outlie and Anomalies:
    Use box plots, histograms, and scatter plots to identify unusual data points.
 
-4. Visual Relationships
+4. Visual Relationships:
    Use correlation heatmaps, pair plots, and bar charts to explore relationships between features.
 
-5. Feature engineering
+5. Feature engineering:
    Create new meaningful features to improve the model’s performance.
 
 # Key Insights from EDA
